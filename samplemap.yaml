@@ -1,0 +1,7 @@
+soundfont: /usr/share/sounds/sf2/FluidR3_GM.sf2
+
+instruments:
+    :vl-i:
+        - bank: 0
+          preset: 40
+          pan: -0.6
